@@ -62,7 +62,7 @@ The **DiseaseAnalysisResult DataClass** serves as a structured container for dis
 
 ### 1. Repository Setup
 **Clone the repository:**
-- Run: git clone https://github.com/shukur-alom/leaf-diseases-detect.git
+- Run: git clone https://github.com/AfnanSharif/LeafSense.git
 - Navigate to: cd leaf-diseases-detect/Front
 
 **Create and activate virtual environment (recommended):**
